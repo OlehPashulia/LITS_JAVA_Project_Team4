@@ -6,5 +6,9 @@
 			<attribute name="owner.project.facets" value="java"/>
 		</attributes>
 	</classpathentry>
+	<classpathentry kind="lib" path="/Users/yurapawa/Downloads/jars-for-lesson-practice/jars-for-lesson-practice/json-libraries/jackson-annotations-2.4.2.jar"/>
+	<classpathentry kind="lib" path="/Users/yurapawa/Downloads/jars-for-lesson-practice/jars-for-lesson-practice/json-libraries/jackson-core-2.4.3.jar"/>
+	<classpathentry kind="lib" path="/Users/yurapawa/Downloads/jars-for-lesson-practice/jars-for-lesson-practice/json-libraries/jackson-databind-2.4.3.jar"/>
+	<classpathentry kind="lib" path="/Users/yurapawa/Downloads/jars-for-lesson-practice/jars-for-lesson-practice/json-libraries/java-json.jar"/>
 	<classpathentry kind="output" path="build/classes"/>
 </classpath>

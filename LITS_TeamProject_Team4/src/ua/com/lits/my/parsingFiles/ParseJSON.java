@@ -19,7 +19,7 @@ import java.util.List;
 public class ParseJSON {
     public static void main(String[] args) throws JsonParseException, JsonMappingException, IOException {
         // path to file
-        InputStream input = new FileInputStream("footballTeams.json");
+        InputStream input = new FileInputStream("src/footballTeams.json");
         ObjectMapper objectMapper = new ObjectMapper();
         objectMapper.disable(DeserializationFeature.FAIL_ON_UNKNOWN_PROPERTIES);
         objectMapper.enable(DeserializationFeature.ACCEPT_SINGLE_VALUE_AS_ARRAY);
