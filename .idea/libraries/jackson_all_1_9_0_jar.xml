@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="jackson-all-1.9.0.jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Downloads/jackson-all-1.9.0.jar.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="jar://$USER_HOME$/Downloads/jackson-all-1.9.0.jar.zip!/" recursive="false" />
+  </library>
+</component>
