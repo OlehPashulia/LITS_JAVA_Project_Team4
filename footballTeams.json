@@ -1,0 +1,72 @@
+[
+	{
+		"id" : "1",
+		"team_name" : "FC Hoverla",
+		"founded" : "1925",
+		"head_coach" : "Vyacheslav Hroznyi",
+		"city_based" : "Uzhhorod"
+	},
+	{
+		"id" : "2",
+		"team_name" : "FC Metalist",
+		"founded" : "1925",
+		"head_coach" : "Oleksandr Sevidov",
+		"city_based" : "Kharkiv"
+	},
+	{
+		"id" : "3",
+		"team_name" : "FC Dynamo",
+		"founded" : "1927",
+		"head_coach" : "Serhiy Rebrov",
+		"city_based" : "Kyiv"
+	},
+	{
+		"id" : "4",
+		"team_name" : "FC Zorya",
+		"founded" : "1923",
+		"head_coach" : "Yuriy Vernydub",
+		"city_based" : "Luhansk"
+	},
+	{
+		"id" : "5",
+		"team_name" : "FC Arsenal-Kyivschyna",
+		"founded" : "2006",
+		"head_coach" : "Vitaliy Rozgon",
+		"city_based" : "Bila Tserkva"
+	},
+		{
+		"id" : "6",
+		"team_name" : "FC Chornomorets",
+		"founded" : "1936",
+		"head_coach" : "Oleksandr Babych",
+		"city_based" : "Odesa"
+	},
+		{
+		"id" : "7",
+		"team_name" : "FC Dnipro",
+		"founded" : "1918",
+		"head_coach" : "Myron Markevych",
+		"city_based" : "Dnipropetrovsk"
+	},
+		{
+		"id" : "8",
+		"team_name" : "FC Illichivets",
+		"founded" : "1960",
+		"head_coach" : "Valeriy Kriventsov",
+		"city_based" : "Mariupol"
+	},
+		{
+		"id" : "9",
+		"team_name" : "FC Karpaty",
+		"founded" : "1963",
+		"head_coach" : "Igor Jovicevic",
+		"city_based" : "Lviv"
+	},
+		{
+		"id" : "10",
+		"team_name" : "FC Shakhtar",
+		"founded" : "1936",
+		"head_coach" : "Mircea Lucescu",
+		"city_based" : "Donetsk"
+	}
+]
