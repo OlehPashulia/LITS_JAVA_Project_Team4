@@ -6,7 +6,6 @@
 .mtj.tmp/
 
 # Package Files #
-*.jar
 *.war
 *.ear
 
@@ -18,6 +17,8 @@ hs_err_pid*
 .gradle
 bin/
 tmp/
+**/META-INF/
+**/build
 *.tmp
 *.bak
 *.swp
