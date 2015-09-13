@@ -28,6 +28,7 @@ public class ParseJSON {
 			List<MapJSON> fileValues = objectMapper.readValue(input,
 					typeFactory.constructCollectionType(ArrayList.class, MapJSON.class));
 			Collections.sort(fileValues, new YearComparator());
+			System.out.println("LIST OF FOOTBALL CLUBS SORTED BY FOUNDATION YEAR:");
 			for (MapJSON i : fileValues) {
 				System.out.println("Id: " + i.getId() + ";");
 				System.out.println("Team Name: " + i.getTeam_name() + ";");
