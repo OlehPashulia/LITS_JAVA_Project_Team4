@@ -12,7 +12,7 @@ import com.fasterxml.jackson.annotation.JsonProperty;
 public class MapJSON {
     private int id;
     private String team_name;
-    private int founded;
+    private Integer founded;
     private String head_coach;
     private String city_based;
 
@@ -50,11 +50,11 @@ public class MapJSON {
         this.team_name = team_name;
     }
 
-    public int getFounded() {
+    public Integer getFounded() {
         return founded;
     }
 
-    public void setFounded(int founded) {
+    public void setFounded(Integer founded) {
         this.founded = founded;
     }
 
